@@ -1,0 +1,36 @@
+Mantener el dashboard simple e intuitivo: Esto hace que sea fácil de usar y entender. La información se vuelve
+accessible y rápida de consultar. Si se pone mucha infromación puede confundir o frustar al usuario y no van
+a usar la aplicación. Busca la información más imporante y elimina lo que es inecesario.
+
+Uso de elementos consistentes: Usar el mismo diseño para todos los elementos. Considerar: fuente, color e íconos.
+Esto genera una un sentido de unidad y familiddad para que el usuario nevegue fácilmente. Ayuda a que el dashboard
+se vea más profesional. Una paleta de colores y fuente que combinen ayuda al diseño. Usar íconos que son fáciles de
+reconocer. 
+
+Priorizar información: Hacer la información más imporante más fácil de encontrar y ayuda a hacer decisiones imporante.
+Usar colores o tamaños que resalten para llamar la atención. Organizar la información logicamente para que sea coherente
+para los usuarios. Usar tarjetas que muestren KPI en la parte superior para hacer saber al usuario qué están buscnado.
+Poner la información más imporante en la parte superior. Determina las necesidades y metas del usuario para saber como 
+acomodar la información. Usar títulos y descripciones claras.
+
+Hacer el dashboard responsivo: No importa dónde se esté presentando el dashboard, la información se debe ver bien.
+Para lograr esto se necesita una cuadrícula flexible que permita un redimensionado y reorganizado de los elementos.
+Cuándo se ve a un dispositivo móvil usa botomes y textos más grandes. Evita usar detalles pequeños.
+
+Usar espacio en blanco efectivamente: Usar espacios en blanco ayuda a que el diseño del dashboard se vea más limpio,
+organizado y fácil de leer. Ayuda a enfocar la atención en elementos más reelevantes. 
+
+Design for Speed: Lograr que el dashboard cargue lo más rápido posible. Tiene que cargar en 3 segundo, porque sino
+el 80% de los usuairos dejan el sitio. Usar imágenes y gráficos ligeros, comprimir archivos pesados y optimizar
+código. Los efectos visuales puede afectar la velozidad de carga de los dashboards. 
+
+Acomodo consistente: Ayuda a navegar facilmente por el dashboard. Es posible usar cuadrícula para lograr este
+punto. Cumpliendo este punto se pueden hacer cambios y actualizaciones más facilmente.
+
+Mantener el dashboard actualizado: Esto permite a los usuario accesder a la información más actual. Se debe
+actulaizar diaria, semanal o mensualmente.
+
+Información correcta y de fuente confiables: Verificar que la información de la fuente original es confiable.
+Revisar que no haya anomalías o inconsistencias que pudieran afectar la información. Mantener el diseño del 
+dashboard actualizado. Agregar o remover gráficas o KPI dependiedo de la estrategia que se quiera tomar en
+el negocio.
